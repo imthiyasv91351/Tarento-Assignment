@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+  }
+  header{
+    background-color: darkblue;
+    padding: 1%;
+  }
+  h1{
+    color: white;
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  p{
+    margin-left: 13%;
+    margin-right: 13%;
+  }
+  #section2{
+    background-color: red;
+    padding: 1%;
+  }
+  footer{
+    background-color: darkblue;
+    padding: 1%;
+  }
+  h3{
+    color: white;
+    text-align: center;
+  }
+  #white{
+    color: white;
+    padding: 10px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 20px;
+  }
+  section{
+    padding: 30px;
+  }
+  ul {
+  text-align: center;
+  color: white;
+  }
+  li {
+  display: inline-block;
+  }
+  
